@@ -1,7 +1,7 @@
 # JavaFX-App-real-estate-agency
 A desktop application that implements the functions of a real estate agency
 
-# В пдф поле имя пустое - это не баг!!! этот модуль с латиницей не работает, с англ ФИО все ок
+# В пдф поле имя пустое - это не баг!!! этот модуль с русскими символами не работает, с англ ФИО все ок
 <br><br>
 ![image](https://github.com/17neverends/JavaFX-App-real-estate-agency/assets/118381764/a5e8fc41-d443-4ce4-832a-e49a094ae146)
 This is start window<br><br>
