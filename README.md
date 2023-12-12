@@ -27,20 +27,18 @@ A desktop application that implements the functions of a real estate agency
 <br><br>
 # All requests saved in pdf and visible for manager
 ![image](https://github.com/17neverends/JavaFX-App-real-estate-agency/assets/118381764/e8080122-882d-443e-a0ee-cfe3d8b4cfe6)
+![image](https://github.com/17neverends/JavaFX-App-real-estate-agency/assets/118381764/5f529f70-a2da-4195-889d-3ee7739784d8)
 <br><br>
 # About company
 ![image](https://github.com/17neverends/JavaFX-App-real-estate-agency/assets/118381764/fb1e55d8-98cd-4ba0-a7b7-a62d37c971a1)
-<br><br>
-![image](https://github.com/17neverends/JavaFX-App-real-estate-agency/assets/118381764/5f529f70-a2da-4195-889d-3ee7739784d8)
-<br><br>
+<br><br
+# Feedback about app from user
 ![image](https://github.com/17neverends/JavaFX-App-real-estate-agency/assets/118381764/3b5c4726-28f5-4cb4-bf6e-4ba8511630b7)
 <br><br>
+# Manager page. He can view PDF-requests from clients and see stats from feedbacks
 ![image](https://github.com/17neverends/JavaFX-App-real-estate-agency/assets/118381764/c2ae5832-1dc1-4f8a-8856-97e9ceb8af8e)
-<br><br>
 ![image](https://github.com/17neverends/JavaFX-App-real-estate-agency/assets/118381764/ca227ecb-33a5-4b2f-a43c-4944b2c1ca19)
-<br><br>
 ![image](https://github.com/17neverends/JavaFX-App-real-estate-agency/assets/118381764/254a7bc8-9774-4cbf-9e71-c89d85911b0f)
-<br><br>
 ![image](https://github.com/17neverends/JavaFX-App-real-estate-agency/assets/118381764/959d235d-1de4-4148-92c1-4ffbcec39a53)
 
 
