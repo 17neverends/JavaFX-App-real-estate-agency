@@ -15,8 +15,10 @@ A desktop application that implements the functions of a real estate agency
 # Client entered in profile
 ![image](https://github.com/17neverends/JavaFX-App-real-estate-agency/assets/118381764/53cf3ec3-1669-48e1-b148-e0e1e9b7676d)
 <br><br>
+#Changes profile data
 ![image](https://github.com/17neverends/JavaFX-App-real-estate-agency/assets/118381764/62c7682f-1de1-4763-b920-94ab451a6f1f)
 <br><br>
+#Offers and tarifs
 ![image](https://github.com/17neverends/JavaFX-App-real-estate-agency/assets/118381764/a828f7b0-64e2-449f-9a83-6d04e8693954)
 <br><br>
 ![image](https://github.com/17neverends/JavaFX-App-real-estate-agency/assets/118381764/48a7f9f9-b3cc-47e8-9105-38e5d5c00253)
