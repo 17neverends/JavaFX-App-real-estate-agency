@@ -3,18 +3,16 @@ A desktop application that implements the functions of a real estate agency
 
 # В пдф поле имя пустое - это не баг!!! этот модуль с русскими символами не работает, с англ ФИО все ок
 <br><br>
-#This is start window
+# This is start window
 ![image](https://github.com/17neverends/JavaFX-App-real-estate-agency/assets/118381764/a5e8fc41-d443-4ce4-832a-e49a094ae146)
 <br><br>
-#Auth/reg module
+# Auth/reg module
 ![image](https://github.com/17neverends/JavaFX-App-real-estate-agency/assets/118381764/60a8cd0a-f5f7-4a93-93fd-e1156bdc0518)
-
 ![image](https://github.com/17neverends/JavaFX-App-real-estate-agency/assets/118381764/a2eae4ac-dc75-4f5f-bbf3-bdf15b6f299e)
-
 ![image](https://github.com/17neverends/JavaFX-App-real-estate-agency/assets/118381764/0f7b56fe-d1c9-4d3b-a85c-8697d291fc63)
-
 ![image](https://github.com/17neverends/JavaFX-App-real-estate-agency/assets/118381764/e9db98e5-b0c6-43ea-847e-56e7d25a7543)
 <br><br>
+# Client entered in profile
 ![image](https://github.com/17neverends/JavaFX-App-real-estate-agency/assets/118381764/53cf3ec3-1669-48e1-b148-e0e1e9b7676d)
 <br><br>
 ![image](https://github.com/17neverends/JavaFX-App-real-estate-agency/assets/118381764/62c7682f-1de1-4763-b920-94ab451a6f1f)
